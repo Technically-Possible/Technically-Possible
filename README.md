@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 🖖
 
-<!--
-**Technically-Possible/Technically-Possible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my Github, it's for both my personal and professional i use this to display what im currently learning and building for fun and professional progresstion <br /> <br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**- 👩🏼‍💻 I’m currently working on:** <br />
+A Compliation of software devlopement testing toolset. <br />
+**- 🌱 I’m currently learning:** <br />
+HTML/Angular <br />
+**- 📫 How to reach me:** <br />
+[My Website!](http://technicallypossible.co.uk/) <br />
+**- 😄 Pronouns:** <br />
+She/Her <br />
+**- ⚡ Fun fact:**<br />
+i can identify starfleet ships my by sound. <br />
