@@ -1,6 +1,6 @@
 ### Hello there 🖖
 
-This is my Github, it's for both my personal and professional use.This place is to display what im currently learning and building for fun and professional progression <br /> <br />
+This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression <br /> <br />
 
 
 **- 👩🏼‍💻 I’m currently working on:** <br />
@@ -12,4 +12,4 @@ HTML/Angular <br />
 **- 😄 Pronouns:** <br />
 She/Her <br />
 **- ⚡ Fun fact:**<br />
-i can identify starfleet ships my by sound. <br />
+i can identify starfleet ships by sound. <br />
