@@ -1,6 +1,6 @@
 ### Hello there 🖖
 
-This is my Github, it's for both my personal and professional i use this to display what im currently learning and building for fun and professional progresstion <br /> <br />
+This is my Github, it's for both my personal and professional use.This place is to display what im currently learning and building for fun and professional progression <br /> <br />
 
 
 **- 👩🏼‍💻 I’m currently working on:** <br />
