@@ -13,3 +13,6 @@ HTML/Angular <br />
 She/Her <br />
 **- ⚡ Fun fact:**<br />
 i can identify starfleet ships by sound. <br />
+
+
+**-If you can't solve a problem, it's because you're playing by the rules-**
