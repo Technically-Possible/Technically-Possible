@@ -25,4 +25,4 @@ i can identify starfleet ships by sound. <br />
 <br />
 <br />
 <br />
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Technically-Possible&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Technically-Possible&show_icons=true&theme=synthwave)
