@@ -20,10 +20,10 @@ This is my Github, it's for both my personal and professional use. This place is
   <dt>😄 Pronouns</dt>
    <dd>She/Her</dd>
 </dl>
----
+<hr style="width:50%;text-align:left;margin-left:0">
 **-If you can't solve a problem, it's because you're playing by the rules-**
----
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<hr style="width:50%;text-align:left;margin-left:0">
+<small>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</small>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Technically-Possible&show_icons=true&theme=synthwave" alt="Jennifers github stats" />
