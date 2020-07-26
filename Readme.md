@@ -1,9 +1,10 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 🖖</h2>
 This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression.
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <dl>
   <dt>👩🏼‍💻 I’m currently working on</dt>
+  <img align='right' src='https://i.imgur.com/roJrD4Z.png' width='300"'>
   <dd>A Simple text editor in as many programming languages as i can.</dd>
   <dt>🌱 I’m currently learning</dt>
   <dd>HTML/Angular.</dd>
