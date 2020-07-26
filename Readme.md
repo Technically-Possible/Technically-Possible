@@ -1,4 +1,4 @@
-  <img align='right' src='https://i.imgur.com/ghjJPvn.png' width='400"'>
+<img align='right' src='https://i.imgur.com/XGcbkgR.gif' width='350"'>
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 🖖</h2>
 This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression.
 <dl>
@@ -7,7 +7,7 @@ This is my Github, it's for both my personal and professional use. This place is
   <dt>🌱 I’m currently learning</dt>
   <dd>HTML/Angular.</dd>
     <dt>📫 How to reach me</dt>
- <a href="http://technicallypossible.co.uk/">My Website!</a><img align='right' src='https://i.imgur.com/XGcbkgR.gif' width='350"'>
+ <a href="http://technicallypossible.co.uk/">My Website!</a>
   <br />
 <a href="https://twitter.com/Techypossible">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
