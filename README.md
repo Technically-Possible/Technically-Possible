@@ -8,16 +8,22 @@ This is my Github, it's for both my personal and professional use. This place is
   <dt>🌱 I’m currently learning</dt>
   <dd>HTML/Angular.</dd>
     <dt>📫 How to reach me</dt>
-  </dl>
-  [My Website!] (http://technicallypossible.co.uk/)
+ </dl>
+ <a href="http://technicallypossible.co.uk/">My Website!</a>
+  <br />
+<a href="https://twitter.com/Techypossible">
+  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jennifercolquhoun-957756118/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
   <dl>
   <dt>😄 Pronouns</dt>
    <dd>She/Her</dd>
 </dl>
+---
 **-If you can't solve a problem, it's because you're playing by the rules-**
-<br />
-<br />
-<br />
+---
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
