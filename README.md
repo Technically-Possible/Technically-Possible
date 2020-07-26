@@ -3,11 +3,11 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression <br /> <br />
-**- 👩🏼‍💻 I’m currently working on:** <br />
+<h3> 👩🏼‍💻 I’m currently working on:</h3> <br />
 A Simple text editor in as many programming languages as i can  <br />
-**- 🌱 I’m currently learning:** <br />
+<h3> 🌱 I’m currently learning:</h3> <br />
 HTML/Angular <br />
-**- 📫 How to reach me:** <br />
+<h3> 📫 How to reach me:</h3> <br />
 [My Website!](http://technicallypossible.co.uk/) <br />
 <a href="https://twitter.com/Techypossible">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -16,10 +16,8 @@ HTML/Angular <br />
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-**- 😄 Pronouns:** <br />
+<h3>- 😄 Pronouns:</h3> <br />
 She/Her <br />
-**- ⚡ Fun fact:**<br />
-i can identify starfleet ships by sound. <br />
 
 **-If you can't solve a problem, it's because you're playing by the rules-**
 <br />
