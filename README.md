@@ -4,7 +4,7 @@
 
 This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression <br /> <br />
 **- 👩🏼‍💻 I’m currently working on:** <br />
-A Compliation of software devlopement testing toolset. <br />
+A Simple text editor in as many programming languages as i can  <br />
 **- 🌱 I’m currently learning:** <br />
 HTML/Angular <br />
 **- 📫 How to reach me:** <br />
