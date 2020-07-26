@@ -1,8 +1,8 @@
-### Hello there 🖖
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 🖖<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression <br /> <br />
-
-
 **- 👩🏼‍💻 I’m currently working on:** <br />
 A Compliation of software devlopement testing toolset. <br />
 **- 🌱 I’m currently learning:** <br />
@@ -26,7 +26,6 @@ i can identify starfleet ships by sound. <br />
 <br />
 <br />
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Technically-Possible&show_icons=true&theme=synthwave" alt="Jennifers github stats" />
