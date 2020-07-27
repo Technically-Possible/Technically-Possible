@@ -18,7 +18,7 @@ This is my Github, it's for both my personal and professional use. This place is
   <dt>😄 Pronouns</dt>  
    <dd>She/Her</dd>  
 </dl>
-<img align='right' src='https://i.imgur.com/Ewv44g9.gif' width='350"'>
+
 <hr style="width:50%;text-align:left;margin-left:0">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Technically-Possible&show_icons=true&theme=synthwave" alt="Jennifers github stats" />
