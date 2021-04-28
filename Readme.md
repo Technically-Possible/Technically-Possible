@@ -1,5 +1,4 @@
 <img align='right' src='https://i.imgur.com/YKxCDdi.png' width='250"'>
-<img align='left' src='https://i.imgur.com/nP58Yta.png' width='250"'><br/>  
 
 <h2><br/> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Im Jen! 🖖</h2>
 This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression.
