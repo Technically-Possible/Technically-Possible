@@ -1,53 +1,34 @@
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<h2><br/> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Im Jen! 🖖</h2>
+<img align='right' src='https://i.imgur.com/YKxCDdi.png' width='250"'>
+This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression.
+<dl>
+  <dt>👩🏼‍💻 I’m currently working on</dt>
+  <dd>A Simple text editor in as many programming languages as i can.</dd>
+  <dt>🌱 I’m currently learning</dt>
+  <dd>HTML/Angular.</dd>
+    <dt>📫 How to reach me</dt>
+ <a href="http://technicallypossible.co.uk/">My Website!</a>
   <br />
-  <br />
-  <img height="50" alt="My Name is Jen and I love The Bodge " src="images/personal_note.svg" />
-  <br />
-  <br />
-
-</div>
-
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://technicallypossible.co.uk/">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
+<a href="https://twitter.com/Techypossible">
+  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-</p>
+<a href="https://www.linkedin.com/in/jennifercolquhoun-957756118/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>  
+  <br>
+  <dt>😄 Pronouns</dt>  
+   <dd>She/Her</dd>  
+</dl>
 
-</td>
+<hr style="width:50%;text-align:left;margin-left:0">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Technically-Possible&show_icons=true&theme=synthwave" alt="Jennifers github stats" />
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Technically-Possible&layout=compact&theme=synthwave" />
+</a>
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/mccnick"><img width="24" src="https://avatars.githubusercontent.com/u/91184284?s=24&u=27e6d9ebf86b25da24cd31c5daad33d6d731f1a6&v=4" alt="mccnick" /> mccnick</a> |4/17/2023, 8:25:15 PM|respekt|
-
-<!-- /Guestbook -->
-
-<!-- Footer -->
-
-<div align="center">
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/technicallypossible/count.svg)
-
-
+<br>
+<small>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</small>
