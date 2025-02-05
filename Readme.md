@@ -69,13 +69,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technically-Possible&layout=compact&theme=synthwave" 
              alt="Jennifer's Most Used Languages" />
     </a>
-   
-</div>
-
-<br/>  
+  <br/>  
 <img src="https://i.imgur.com/SFubLx2.png" align="left" style="width: 100%" />  
-<br/>  
-
+<br/>   
+</div>
 
 ## Connect with me  
 <a href="https://github.com/Technically-Possible" target="_blank">
