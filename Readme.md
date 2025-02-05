@@ -1,15 +1,10 @@
 <div align="right">
-  <div style= "align: right; text-align: right; width: 10%;">
-    <a href="">
-        <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=32&pause=1000&color=DC8A1C&center=true&multiline=true&repeat=false&width=800&height=300&lines=~~~~~~~~~~~~~~~~~~~~~~~~~~;A+Disabled%2C+Trans%2C+Star+Trek+Loving%2C;+Logic+Following%2C+Automation+Engineer%2C;Autistically+Delicious%2C++Mad+Woman;~~~~~~~~~~~~~~~~~~~~~~~~~~" 
-        style="width: 50%; max-width: 800px; display: block; margin: 20;text-align: left;" />
-    </a>
-</div>  
-<img src="https://i.imgur.com/dm2BM0n.jpeg" align="right" height="300" width="300" />
+
+<img src="https://i.imgur.com/YKxCDdi.png" align="right" height="300" width="300" />
 </div>  
 
 
-### <div align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Im Jenn! 🖖 </div>  
+### <div align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Im Jenn! AKA Technically-Possible🖖 </div>  
   
 
 - 🔭 I’m currently working on [A VR Chat Cinema.](https://github.com/Technically-Possible/NeoCrainumsVRCCinema) With a Weekly User Throughput of 40 users  
@@ -25,7 +20,12 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
+    <div style= "align: right; text-align: right; width: 10%;">
+    <a href="">
+        <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=32&pause=1000&color=DC8A1C&center=true&multiline=true&repeat=false&width=800&height=300&lines=~~~~~~~~~~~~~~~~~~~~~~~~~~;A+Disabled%2C+Trans%2C+Star+Trek+Loving%2C;+Logic+Following%2C+Automation+Engineer%2C;Autistically+Delicious%2C++Mad+Woman;~~~~~~~~~~~~~~~~~~~~~~~~~~" 
+        style="width: 50%; max-width: 800px; display: block; margin: 20;text-align: left;" />
+    </a>
+</div>  
 <br/>  
 
 ## My Skill Set  
