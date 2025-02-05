@@ -1,4 +1,5 @@
 <h2><br/> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Im Jen! 🖖</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=32&pause=1000&color=DC8A1C&center=true&multiline=true&width=800&height=900&lines=A+Disabled+Trans+Genuis%2C++;A+Star+trek+Loving%2C+Logic+Following%2C;Musk+Disliking%2C+Automation+Engineer%2C)](https://git.io/typing-svg)
 <img align='right' src='https://i.imgur.com/YKxCDdi.png' width='250"'>
 This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression.
 <dl>
