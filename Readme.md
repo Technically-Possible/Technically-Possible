@@ -1,35 +1,110 @@
-<h2><br/> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Im Jen! 🖖</h2>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=32&pause=1000&color=DC8A1C&center=true&multiline=true&width=800&height=900&lines=A+Disabled+Trans+Genuis%2C++;A+Star+trek+Loving%2C+Logic+Following%2C;Musk+Disliking%2C+Automation+Engineer%2C)](https://git.io/typing-svg)
-<img align='right' src='https://i.imgur.com/YKxCDdi.png' width='250"'>
-This is my Github, it's for both my personal and professional use. This place is to display what im currently learning and building for fun and professional progression.
-<dl>
-  <dt>👩🏼‍💻 I’m currently working on</dt>
-  <dd>A Simple text editor in as many programming languages as i can.</dd>
-  <dt>🌱 I’m currently learning</dt>
-  <dd>HTML/Angular.</dd>
-    <dt>📫 How to reach me</dt>
- <a href="http://technicallypossible.co.uk/">My Website!</a>
-  <br />
-<a href="https://twitter.com/Techypossible">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<div align="left">
+  
+
+<div align="right">
+  <div style= "align: right; text-align: right; width: 10%;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=32&pause=1000&color=DC8A1C&center=true&multiline=true&repeat=false&width=800&height=300&lines=~~~~~~~~~~~~~~~~~~~~~~~~~~;A+Disabled%2C+Trans%2C+Star+Trek+Loving%2C;+Logic+Following%2C+Automation+Engineer%2C;Autistically+Delicious%2C++Mad+Woman;~~~~~~~~~~~~~~~~~~~~~~~~~~" 
+        style="width: 50%; max-width: 800px; display: block; margin: 20;text-align: left;" />
+    </a>
+</div>  
+<img src="https://i.imgur.com/dm2BM0n.jpeg" align="right" height="300" width="300" />
+</div>  
+
+
+### <div align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Im Jenn! 🖖 </div>  
+  
+
+- 🔭 I’m currently working on [A VR Chat Cinema.](https://github.com/Technically-Possible/NeoCrainumsVRCCinema) With a Weekly User Throughput of 40 users  
+  
+
+- 🌱 I’m currently learning More About LLM For local use with Home Assistant  
+  
+
+- 🌱 I’m currently learning more about 3D Modelling For VR Chat Use.  
+  
+
+- ❓ Ask me about anything related to VR and Automation related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+<br/>  
+
+## My Skill Set  
+
+
+### Tool's, Languages, and Technologies I use regularly  (Not An Expert Always Learning)  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="75" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="75" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="75" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="75" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="75" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="75" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="75" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="75" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="75" /></a>  
+<a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="75" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="75" /></a>  
+</div>  
+<div align="center">  
+<br/>  
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Technically-Possible&show_icons=true&theme=synthwave" 
+             alt="Jennifer's GitHub Stats" />
+    </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technically-Possible&layout=compact&theme=synthwave" 
+             alt="Jennifer's Most Used Languages" />
+    </a>
+   
+</div>
+
+<br/>  
+<img src="https://i.imgur.com/SFubLx2.png" align="left" style="width: 100%" />  
+<br/>  
+
+
+## Connect with me  
+<a href="https://github.com/Technically-Possible" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/jennifercolquhoun-957756118/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/thedomainatrix" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  <br>
-  <dt>😄 Pronouns</dt>  
-   <dd>She/Her</dd>  
-</dl>
+  
 
-<hr style="width:50%;text-align:left;margin-left:0">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Technically-Possible&show_icons=true&theme=synthwave" alt="Jennifers github stats" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Technically-Possible&layout=compact&theme=synthwave" />
-</a>
+<br/>  
 
-<br>
-<small>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</small>
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=Technically-Possible&&style=flat-square" align="right" />
+</div>  
+  
+
+<br/>  
+
+<div align="right">
+            <a href="https://paypal.me/JenniQueen" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="right"
+                />
+            </a></div>
+<br />
+
+----
