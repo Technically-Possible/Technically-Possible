@@ -1,9 +1,6 @@
-<div align="left">
-  
-
 <div align="right">
   <div style= "align: right; text-align: right; width: 10%;">
-    <a href="https://git.io/typing-svg">
+    <a href="">
         <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=32&pause=1000&color=DC8A1C&center=true&multiline=true&repeat=false&width=800&height=300&lines=~~~~~~~~~~~~~~~~~~~~~~~~~~;A+Disabled%2C+Trans%2C+Star+Trek+Loving%2C;+Logic+Following%2C+Automation+Engineer%2C;Autistically+Delicious%2C++Mad+Woman;~~~~~~~~~~~~~~~~~~~~~~~~~~" 
         style="width: 50%; max-width: 800px; display: block; margin: 20;text-align: left;" />
     </a>
